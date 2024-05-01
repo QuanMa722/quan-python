@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-文件读写
+file
 
 | 操作模式  具体含义
 | r 读取（默认）
@@ -116,5 +116,5 @@ def main_d():
 if __name__ == '__main__':
     # main_a()
     # main_b()
-    # main_c()
-    main_d()
+    main_c()
+    # main_d()
