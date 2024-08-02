@@ -116,5 +116,5 @@ def main_d():
 if __name__ == '__main__':
     # main_a()
     # main_b()
-    main_c()
-    # main_d()
+    # main_c()
+    main_d()

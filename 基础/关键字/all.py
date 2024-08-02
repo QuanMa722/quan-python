@@ -3,15 +3,16 @@
 from keyword import kwlist, softkwlist
 
 count = 1
-print("the keyword")
+print("关键词")
 for keyword in kwlist:
-    print(f"{count}: {keyword}")
+    print(count, keyword)
     count += 1
 
 print()
 
 count = 1
-print("the softkwlist")
+print("软文列表")
 for keyword in softkwlist:
-    print(f"{count}: {keyword}")
+    print(count, keyword)
     count += 1
+
